@@ -17,13 +17,13 @@ This dashboard provides insights into the technologies respondents wish to work 
 Top 10 Languages Desire Next Year: Indicates the programming languages respondents are most interested in learning or using.
 Top 10 Databases Desire Next Year: Shows the databases that respondents plan to work with.
 Platform Desire Next Year: Represents the platforms respondents are interested in, shown in a treemap.
-Top 10 Web Frameworks Desire Next Year: Lists the web frameworks that respondents aspire to work with.
+Top 10 Web Frameworks Desire Next Year: Lists the web frameworks that respondents aspire to work with.    
 
 Demographics
 This dashboard provides demographic information about the respondents, including:
 
 Respondent classified by Gender: Pie chart showing the gender distribution of respondents.
-Respondent Count for Countries: Map showing the geographic distribution of respondents.
+Respondent Count for Countries: Map showing the geogr aphic distribution of respondents.
 Respondent Count by Age: Line chart displaying the age distribution of respondents.
 Respondent Count by Gender and Formal Education Level: Bar chart showing the education level of respondents, broken down by gender.
 
